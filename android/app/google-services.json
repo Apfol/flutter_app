@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "56813193261",
+    "firebase_url": "https://healthy-sabana.firebaseio.com",
+    "project_id": "healthy-sabana",
+    "storage_bucket": "healthy-sabana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:56813193261:android:16a509aab9e555a4",
+        "android_client_info": {
+          "package_name": "com.andresram.flutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "56813193261-rgidbmob96a2ighdg7baauspqj4dhlra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkaIdoH1A0e2SWP72M8ZIz52APdMgwWbw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
